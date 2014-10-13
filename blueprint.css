@@ -1,0 +1,16 @@
+table {
+    border-collapse:collapse;
+    text-align: center;
+    table-layout: fixed;
+}
+td {
+    border: 1px solid #ccc;
+    width: 24px;
+    height: 24px;
+    overflow: visible;
+}
+
+#slider {
+    margin-bottom: 1em;
+}
+
